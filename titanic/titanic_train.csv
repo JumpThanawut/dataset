@@ -45,7 +45,6 @@ ticket_class,sex,age,num_sibling_spouse,num_parent_child,fare,port,class
 2,female,5,1,2,27.75,S,survived
 3,male,11,5,2,46.9,S,sank
 3,male,22,0,0,7.2292,C,sank
-1,female,38,0,0,80,,survived
 1,male,45,1,0,83.475,S,sank
 3,male,4,3,2,27.9,S,sank
 2,female,29,0,0,10.5,S,survived
@@ -661,7 +660,6 @@ ticket_class,sex,age,num_sibling_spouse,num_parent_child,fare,port,class
 3,female,27,0,1,12.475,S,survived
 3,male,2,4,1,39.6875,S,sank
 2,male,1,0,2,37.0042,C,survived
-1,female,62,0,0,80,,survived
 3,female,15,1,0,14.4542,C,survived
 2,male,0.83,1,1,18.75,S,survived
 3,male,23,0,0,7.8542,S,sank
