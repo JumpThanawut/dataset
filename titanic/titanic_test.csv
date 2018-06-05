@@ -120,7 +120,6 @@ ticket_class,sex,age,num_sibling_spouse,num_parent_child,fare,port
 3,male,22,0,0,8.05,S
 2,male,30,1,1,26,S
 1,female,23,0,1,83.1583,C
-3,male,60.5,0,0,,S
 3,female,36,0,2,12.1833,S
 3,male,13,4,2,31.3875,S
 3,male,24,0,0,7.55,S
