@@ -1,0 +1,1 @@
+Source: https://www.kaggle.com/inIT-OWL/production-plant-data-for-condition-monitoring
